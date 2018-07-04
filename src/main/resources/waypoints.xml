@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Station xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="waypoints.xsd">
+    <station>
+        <name>Поселок пионерский</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>2</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Минск-Арена</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>3</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Университет физкультуры</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>4</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Радужная</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>5</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Ташкентская</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>2</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Машиностроителей</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>4</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Автобусный парк №6</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>6</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>10-я больница</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>8</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Наполеона Орды</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>6</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Яна Чечота</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>7</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Каролинская</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>6</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Академическая</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>9</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Ботаническая</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>10</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Радиальная</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>11</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Круглая площадь</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>12</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Менделеева</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>13</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Столетова</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>14</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Дом печать</name>
+        <BaseStation>ДС ЧИЖОВКА</BaseStation>
+        <distanceFromBaseStation>15</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Проходная</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>10</distanceFromBaseStation>
+    </station>
+</Station>

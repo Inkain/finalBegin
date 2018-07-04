@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Station>
+    <station>
+        <name>Поселок пионерский</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>2</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Минск-Арена</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>3</distanceFromBaseStation>
+    </station>
+    <station>
+        <name>Университет физкультуры</name>
+        <BaseStation>ДС ВЕСНЯНКА</BaseStation>
+        <distanceFromBaseStation>4</distanceFromBaseStation>
+    </station>
+</Station>

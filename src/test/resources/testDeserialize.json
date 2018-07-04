@@ -1,0 +1,19 @@
+{
+  "waypoints": [
+    {
+      "name": "Поселок пионерский",
+      "distanceFromBaseStation": 2,
+      "baseStation": "ДС ВЕСНЯНКА"
+    },
+    {
+      "name": "Минск-Арена",
+      "distanceFromBaseStation": 3,
+      "baseStation": "ДС ВЕСНЯНКА"
+    },
+    {
+      "name": "Университет физкультуры",
+      "distanceFromBaseStation": 4,
+      "baseStation": "ДС ВЕСНЯНКА"
+    }
+  ]
+}

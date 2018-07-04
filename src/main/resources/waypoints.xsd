@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema elementFormDefault="qualified"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Station" type="Stations"/>
+    <xs:element name="name" type="xs:string"/>
+
+    <xs:element name="distanceFromBaseStation" default="0" type="xs:int"/>
+    <xs:element name="BaseStation" type="base"/>
+    <xs:simpleType name="base">
+        <xs:restriction base="xs:token">
+            <xs:enumeration value="ДС ВЕСНЯНКА"/>
+            <xs:enumeration value="ДС ЧИЖОВКА"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+    <xs:complexType name="Stations">
+        <xs:sequence>
+            <xs:element name="station" maxOccurs="unbounded" type="stationType"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="stationType">
+        <xs:sequence>
+            <xs:element ref="name"/>
+            <xs:element ref="BaseStation"/>
+            <xs:element ref="distanceFromBaseStation"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
